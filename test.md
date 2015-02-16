@@ -9,6 +9,8 @@ description: ""
 Who am I?
 =========
 
+![Lamp test pic]({{ site.url }}/assets/lamp.jpg)
+
 WHA~
 
 * One
